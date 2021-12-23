@@ -1,0 +1,23 @@
+solid filestl
+facet normal 0.991309 0.0262812 0.0262796
+outer loop
+    vertex -49.9111 85.733 -1357.76
+    vertex -49.9346 86.6265 -1357.76
+    vertex -49.9346 85.733 -1356.86
+endloop
+endfacet
+facet normal 0.999158 0.0290085 0.0290067
+outer loop
+    vertex -49.9346 85.733 -1356.86
+    vertex -49.9346 86.6265 -1357.76
+    vertex -49.9633 86.6745 -1356.82
+endloop
+endfacet
+facet normal 0.996327 0.0262471 0.0815064
+outer loop
+    vertex -49.9346 85.733 -1356.86
+    vertex -49.9633 86.6745 -1356.82
+    vertex -50.0151 85.733 -1355.88
+endloop
+endfacet
+endsolid filestl
